@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andra\\source\\repos\\Act15Oct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|c:\\users\\andra\\source\\repos\\act15oct\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|C:\\Users\\andra\\source\\repos\\Act15Oct\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB366FE-B6E4-41D3-9DE6-A247B0EF4FFC}|Act15Oct.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:17:54.272Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rectangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Rectangulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rectangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Rectangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:10:45.124Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Poligono.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Poligono.cs",
+              "RelativeDocumentMoniker": "Poligono.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Poligono.cs",
+              "RelativeToolTip": "Poligono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:55:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Poligono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Poligono.cs",
+              "RelativeDocumentMoniker": "Poligono.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Poligono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Poligono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:52:43.187Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:55:16.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Circulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Circulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:51:26.153Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trapecio.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Trapecio.cs",
+              "RelativeDocumentMoniker": "Trapecio.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Trapecio.cs",
+              "RelativeToolTip": "Trapecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:23:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Trapecio.cs",
+              "RelativeDocumentMoniker": "Trapecio.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Trapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Trapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:20:18.62Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Romboide.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Romboide.cs",
+              "RelativeDocumentMoniker": "Romboide.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Romboide.cs",
+              "RelativeToolTip": "Romboide.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:07:57.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Romboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Romboide.cs",
+              "RelativeDocumentMoniker": "Romboide.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Romboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Romboide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T21:05:45.007Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Rombo.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rombo.cs",
+              "RelativeDocumentMoniker": "Rombo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rombo.cs",
+              "RelativeToolTip": "Rombo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T18:40:50.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Triangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Triangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:30:30.733Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuadrado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Cuadrado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cuadrado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:23:51.944Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:04:59.733Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rombo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rombo.cs",
+              "RelativeDocumentMoniker": "Rombo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rombo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Rombo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:45:10.216Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:12:42.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Triangulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Triangulo.cs",
+              "RelativeToolTip": "Triangulo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:36:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:27:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "Rectangulo.cs",
+              "ToolTip": "C:\\Users\\andra\\source\\repos\\Act15Oct\\Rectangulo.cs",
+              "RelativeToolTip": "Rectangulo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:27:13.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
